@@ -1,0 +1,17 @@
+{
+  "name": "projectMarta",
+  "description": "photo gallery",
+  "main": "index.html",
+  "authors": [
+    "max shemet"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
